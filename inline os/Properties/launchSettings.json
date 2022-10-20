@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "inline os": {
+      "commandName": "Project",
+      "commandLineArgs": " -disableinternet -nowarn -experamentalKernel -",
+      "nativeDebugging": false
+    }
+  }
+}
